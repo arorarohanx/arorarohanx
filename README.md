@@ -16,7 +16,7 @@
 
 ## 🧠 Who I Am
 
-Final-year B.Tech CSE (Cybersecurity) student at SRM University. I sit at the intersection of **offensive security** and **software development**  I can write Python to automate threat detection, run a pentest on a vulnerable VM, and build a dashboard to visualize the results.
+Final-year B.Tech CSE (Cybersecurity) student at SRM University. I sit at the intersection of **offensive security** and **software development** - I can write Python to automate threat detection, run a pentest on a vulnerable VM, and build a dashboard to visualize the results.
 
 Currently strengthening DSA fundamentals (LeetCode), sharpening red-team skills on TryHackMe (Top 3% globally), and building tools that make security workflows faster.
 
@@ -31,13 +31,8 @@ I'm not looking to "break into cybersecurity" — I'm already in it. I'm looking
 - Exploit Analysis (MS17-010 / EternalBlue) · IOC Analysis · Threat Hunting concepts
 - Tools: Nmap, Metasploit, Burp Suite, Wireshark, Splunk, VirusTotal API, AbuseIPDB
 
-**Development**
-- Python (scripting, automation, API integration, Streamlit, FastAPI)
-- JavaScript · HTML/CSS · Next.js · MySQL · Supabase
-- Bash / PowerShell · Git / GitHub
-
 **Currently Learning**
-- DSA in Python · Advanced pentesting techniques · SIEM workflows in Splunk
+- DSA in Java · Advanced pentesting techniques & Security Measurements · SIEM workflows in Splunk
 
 ---
 
