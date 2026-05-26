@@ -16,9 +16,9 @@
 
 ## 🧠 Who I Am
 
-Final-year B.Tech CSE (Cybersecurity) student at SRM University. I sit at the intersection of **offensive security** and **software development** — I can write Python to automate threat detection, run a pentest on a vulnerable VM, and build a dashboard to visualize the results.
+Final-year B.Tech CSE (Cybersecurity) student at SRM University. I sit at the intersection of **offensive security** and **software development**  I can write Python to automate threat detection, run a pentest on a vulnerable VM, and build a dashboard to visualize the results.
 
-Currently strengthening DSA fundamentals (40+ LeetCode), sharpening red-team skills on TryHackMe (Top 3% globally), and building tools that make security workflows faster.
+Currently strengthening DSA fundamentals (LeetCode), sharpening red-team skills on TryHackMe (Top 3% globally), and building tools that make security workflows faster.
 
 I'm not looking to "break into cybersecurity" — I'm already in it. I'm looking for the right team to grow with.
 
@@ -41,39 +41,9 @@ I'm not looking to "break into cybersecurity" — I'm already in it. I'm looking
 
 ---
 
-## 🚀 Projects
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
-### 🔍 [Threat Intelligence Dashboard](https://github.com/arorarohanx/threat-intelligence-dashboard)
-Built a real-time cybersecurity dashboard that queries **VirusTotal** and **AbuseIPDB** APIs to analyze IPs, domains, and file hashes for malicious activity. Outputs threat scores and visualizations.  
-`Python` `Streamlit` `REST APIs` `Threat Intelligence`
-
----
-
-### 💀 [MS17-010 Vulnerability Assessment](https://github.com/arorarohanx/MS17-010-Vulnerability-Assessment)
-Full vulnerability assessment and exploitation report on the **EternalBlue** (MS17-010) SMB exploit in a controlled lab environment. Includes methodology, findings, and remediation recommendations.  
-`Metasploit` `Nmap` `Kali Linux` `Ethical Hacking`
-
----
-
-### 📋 [Black-Box Penetration Testing Report](https://github.com/arorarohanx/penetration-testing-report-rohan-arora)
-End-to-end penetration testing engagement report documenting reconnaissance, exploitation, and post-exploitation phases with full screenshots and writeup.  
-`Penetration Testing` `Kali Linux` `Reporting`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorarohanx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arorarohanx&theme=tokyonight&hide_border=true&layout=compact)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arorarohanx&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🏆 Achievements
 
@@ -85,19 +55,6 @@ End-to-end penetration testing engagement report documenting reconnaissance, exp
 
 - 🥇 **TryHackMe — Top 3% globally** across offensive security rooms
 - 🎓 **B.Tech CSE (Cybersecurity)** — SRM University (Final Year)
-- 🔐 Completed: Jr Penetration Tester path · SOC Level 1 · Web Fundamentals
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/arorarohanx/arorarohanx/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> ⚠️ The snake above only appears after you complete Step 9 from the setup guide (create the `.github/workflows/snake.yml` file). Delete this note once done.
 
 ---
 
